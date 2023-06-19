@@ -13,4 +13,4 @@ PDF-Solver is a web application that allows users to ask questions about the con
 
 # Architecture design
 
-![Architecture](architecture/final-scheme.png)
+![Architecture](final-scheme.png)
