@@ -2,6 +2,8 @@
 
 PDF-Solver is a web application that allows users to ask questions about the content of a PDF file using natural language. It is built upon GPT-3.5.
 
+Note: system crashes when received horizontal pages on PDFs
+
 # Usage
 
 1. Clone the repository
