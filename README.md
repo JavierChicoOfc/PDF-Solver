@@ -11,7 +11,7 @@ Note: system crashes when received horizontal pages on PDFs
 3. Install the dependencies `pip install -r requirements.txt` in the virtual environment
 4. {Optional} Go to config.py and write down your own key for OpenAI API (you can get it [here](https://beta.openai.com/))
 5. {Optional} Go to config.py and write down your own settings for Pinecone: envirment, api_key, index_name
-6. Run the app `streamlit run app.py`
+6. Run the app `streamlit run main.py`
 7. Follow the instructions on the web page
 
 # Extra
